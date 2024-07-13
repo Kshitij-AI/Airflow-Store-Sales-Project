@@ -1,0 +1,1 @@
+DROP DATABASE airflow_db;
